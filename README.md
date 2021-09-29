@@ -15,4 +15,4 @@ You learned about the String type and printing to the console using print(). Use
 - Set its value to your age.
 - print in the console "My last name is < your last name > and I am < your age > years old"
 
-*hint: user string interpolation* 
+*hint: use string interpolation* 
